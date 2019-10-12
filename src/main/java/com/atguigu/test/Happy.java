@@ -5,6 +5,9 @@ public class Happy {
 
 		System.out.println("print on left...very good");
 		System.out.println("print on right...");
+		System.out.println("print on right...perfiect");
+		System.out.println("print on hot_fix");
+
 	}
 
 }
